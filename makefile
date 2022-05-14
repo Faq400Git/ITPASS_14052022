@@ -4,6 +4,8 @@ SHELL=/QOpenSys/usr/bin/qsh
 
 all: pgm001.rpgle
 
+pgm001.rpgle:
+
 
 
 %.rpgle:
