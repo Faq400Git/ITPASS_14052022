@@ -11,7 +11,7 @@ dcl-s version char(10);
 dcl-s testo   char(30);
 dcl-s variabile2 char(10);
 
-version='1.0';
+version='1.1';
 
 testo='Versione '+Version;
 
